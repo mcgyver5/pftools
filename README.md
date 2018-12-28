@@ -6,4 +6,6 @@ Contents:
 3) Unit TEsts.  
 4) Payload generation
 5) Api clients for various tools
-6) 
+6) divide into lines
+7) json to XML
+8) XML to json
