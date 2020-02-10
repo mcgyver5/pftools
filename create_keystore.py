@@ -2,6 +2,7 @@
 # first install pyt, then pexpect
 # pip install pyt
 # pip install expect
+# pexpect.spawn does not work on windows....
 import sys
 import pexpect
 child = pexpect.spawn('keytool -genkeypair -alias popcorn5 -keystore popcorn5.jks')
